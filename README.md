@@ -29,7 +29,7 @@ Hello! I'm Muhammad Rafsanjani
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/rafsanjani21/rafsanjani21/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/rafsanjani21/rafsanjani21/output/snake.svg" alt="Snake animation" />
 
 ###
 
