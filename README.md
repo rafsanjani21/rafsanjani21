@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Rafsan](img/github-header-image.png)
+
 <!--
 **rafsanjani21/rafsanjani21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
